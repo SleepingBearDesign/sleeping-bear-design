@@ -1,0 +1,8 @@
+{{ "<!-- ASIDE -->" | safeHTML }}
+<aside class="bg-dark">
+    <div class="container text-center">
+        <div class="call-to-action">
+            <h2>{{ range .Site.Params.social.list }}<a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a> {{ end }}</h2>
+        </div>
+    </div>
+</aside>
