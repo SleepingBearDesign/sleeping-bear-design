@@ -11,6 +11,7 @@ disableRSS = true
 	name = "Brody Berson"
 	url = "http://brodyberson.com/"
 	description = "Sleeping Bear Design out of West Michigan. Craft a beautiful site for any device!"
+	keywords = ["web design", "web development", "affordable", "custom", "professional", "freelance", "quote", "graphic design", "sleeping bear", "seo", "small businesses", "weddings", "website design", "website designer", "grand rapids website designer", "website", "grand rapids", "mi", "michigan", "north muskegon", "west michigan", "sleeping bear design"]
 
 	# Navigation
 	[params.navigation]
