@@ -1,0 +1,80 @@
+baseurl = "http://sleepingbeardesign.com/"
+languageCode = "en-us"
+title = "Sleeping Bear Design"
+theme = "sbd"
+googleanalytics = "UA-51482929-1"
+copyright = "© 2015 Sleeping Bear Design. All Rights Reserved"
+disableRSS = true
+
+[params]
+
+	name = "Brody Berson"
+	url = "http://brodyberson.com/"
+	description = "Sleeping Bear Design out of West Michigan. Craft a beautiful site for any device!"
+
+	# Navigation
+	[params.navigation]
+		brand = "Sleeping Bear Design"
+
+		[params.navigation.links]
+			about     = "About"
+			services  = "Services"
+			portfolio = "Portfolio"
+			contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Locally Made"
+		description = "Our team is made up of a few young professionals based out of West Michigan, right on the shores of Lake Michigan. Our passion for what we do started with a belief in this area and its locals, and it has since grown into something much bigger. We are now working to help bring small businesses, startups, and other young professionals to the forefront of the public's attention with a strong presence on the web."
+		buttonText  = "Get started!"
+
+
+	# Service section
+	[params.services]
+		headline = "Our Design Process"
+
+        [[params.services.list]]
+            icon = "fa-coffee"
+            title = "The Meeting"
+            description = "First, we meet. Contact us for a free consultation over coffee or a quick phone call to discuss what services you're looking for and how Sleeping Bear can help."
+
+        [[params.services.list]]
+			icon = "fa-cogs"
+			title = "The Ideas"
+			description = "Next, the ideas start turning. This is where we work with you one-on-one to get the specifics of what you want and don't want. Once we have a good idea of your ideas and tastes, we'll start creating a visually aesthetic website that both you and your visitors will love."
+
+		[[params.services.list]]
+            icon = "fa-heart"
+            title = "The Product"
+            description = "Finally, the launch. After all tweaks and modifications are ironed out, we make your new site available to the public. After this point, you can share your page with friends, family, and customers, and you'll be able to see the immediate impact of your strong, new web presence."
+
+    [params.social]
+    	[[params.social.list]]
+    		icon = "fa-facebook"
+    		url = "http://www.facebook.com/SleepingBearDesign"
+    		username = "SleepingBearDesign"
+		[[params.social.list]]
+			icon = "fa-twitter"
+			url = "http://twitter.com/SleepingBearDsn"
+			username = "SleepingBearDsn"
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+	# Contact section
+	[params.contact]
+		headline = "Let's Get In Touch!"
+		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		phone = "(231) 329-2295"
+		phonestripped = "2313292295"
+		email = "contact@sleepingbeardesign.com"
