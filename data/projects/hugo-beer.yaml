@@ -1,0 +1,8 @@
+modalID: 4
+title: Hugo Beer Redesign
+date: 12-20-2015
+img: hugobeer.png
+client: Hugo Beer "Redesign"
+clientLink: "http://45.55.251.5/"
+category: Web Development
+description: Experimenting with Hugo, the static site generator to build a mock brewery site using Pigeon Hill Brewery's Assets. Including an Instagram, Twitter, Facebook Events, and Untappd integration. Source code available on <a href="https://github.com/bhberson/hugo-beer">GitHub</a>.
