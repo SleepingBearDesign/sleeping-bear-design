@@ -32,7 +32,7 @@ disableRSS = true
 	# About section
 	[params.about]
 		headline    = "Locally Made"
-		description = "Our team is made up of a few young professionals based out of West Michigan, right on the shores of Lake Michigan. Our passion for what we do started with a belief in this area and its locals, and it has since grown into something much bigger. We are now working to help bring small businesses, startups, and other young professionals to the forefront of the public's attention with a strong presence on the web."
+		description = "Sleeping Bear Design is ran and operated by <a href='https://brodyberson.com' target='_blank'>Brody Berson</a> from West Michigan, right on the shores of Lake Michigan. His passion for what he does started with a belief in the West Michigan area and its locals, and it has since grown into something much bigger. He is working to help bring small businesses, startups, and other young professionals to the forefront of the public's attention with a strong presence on the web. Sleeping Bear Design serves as a direct portfolio of all of his web development work. I specialize in static digital marketing websites with social media tie-ins, blogs, and small e-commerce storefronts."
 		buttonText  = "Get started!"
 
 
@@ -43,17 +43,17 @@ disableRSS = true
         [[params.services.list]]
             icon = "fa-coffee"
             title = "The Meeting"
-            description = "First, we meet. Contact us for a free consultation over coffee or a quick phone call to discuss what services you're looking for and how Sleeping Bear can help."
+            description = "First, we meet. Contact us for a free consultation over drinks or a quick phone call/email to discuss what services you're looking for and how Sleeping Bear Design can help."
 
         [[params.services.list]]
 			icon = "fa-cogs"
 			title = "The Ideas"
-			description = "Next, the ideas start turning. This is where we work with you one-on-one to get the specifics of what you want and don't want. Once we have a good idea of your ideas and tastes, we'll start creating a visually aesthetic website that both you and your visitors will love."
+			description = "Next, the ideas start turning. This is where I work with you one-on-one to get the specifics of what you want and don't want. Once I have a good idea of your ideas and tastes, I'll start creating a visually aesthetic website that both you and your visitors will love."
 
 		[[params.services.list]]
             icon = "fa-heart"
             title = "The Product"
-            description = "Finally, the launch. After all tweaks and modifications are ironed out, we make your new site available to the public. After this point, you can share your page with friends, family, and customers, and you'll be able to see the immediate impact of your strong, new web presence."
+            description = "Finally, the launch. After all tweaks and modifications are ironed out, I make your new site available to the public. After this point, you can share your page with friends, family, and customers, and you'll be able to see the immediate impact of your strong, new web presence."
 
     [params.social]
     	[[params.social.list]]
@@ -75,7 +75,7 @@ disableRSS = true
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		description = "Ready to start your next project with me? That's great! Give me a call or send an email and I will get back to you as soon as possible!"
 		phone = "(231) 329-2295"
 		phonestripped = "2313292295"
-		email = "contact@sleepingbeardesign.com"
+		email = "brody@sleepingbeardesign.com"
