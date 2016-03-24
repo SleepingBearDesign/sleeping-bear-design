@@ -4,6 +4,8 @@
 <meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
 <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
 <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+<base href="{{ .Site.BaseURL }}">
+<title>{{ .Site.Title }}</title>
 {{ .Hugo.Generator }}
 {{ partial "favicon.html" . }}
 {{ "<!-- Bootstrap Core CSS -->" | safeHTML }}
